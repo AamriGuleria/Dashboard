@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    justify-content: space-between;
+  }
+  
+  .main-content {
+    display: flex;
+    justify-content: space-between;
+  }

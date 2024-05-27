@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f8f9fa;
+  padding: 10px 20px;
+}
+.Logo span{
+  /* width: 50px;        
+  height: 50px;           */
+  /* text-indent: -9999px; /* Move the text far off-screen */
+  /* overflow: hidden; */ 
+  color:transparent;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin:0;
+  padding:0;
+  background-image: url('../monthly.png');
+}
+.Logo{
+    font-size: 1.5em;
+  font-weight: bold;
+}
+.Date{
+    font-size: 15px;
+}

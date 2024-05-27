@@ -1,0 +1,31 @@
+.monthly-employee {
+    /* justify-content: space-between; */
+    background-color: #f8f9fa;
+    margin-left:2%;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    background-image: url("https://imgs.search.brave.com/BSFOh4O6K1L2cCovAKscEvWX73Y2BDEPmWf5lOdaF94/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2QxLzY4/L2Q5L2QxNjhkOWQ5/ZWM2YTAyOTI3MTk2/YTY5OTk3MzMzMWFi/LmpwZw");
+    width:15%;
+    max-height:380px;
+    /* overflow:auto; */
+  }
+  .monthly-employee h2{
+    color:blue;
+    font-size: x-large;
+  }
+  .employee-image p{
+    font-weight:600;
+  }
+  .monthly-employee span{
+    font-size: small;
+  }
+  .employee-image {
+    width: 100%;
+    height:60%;
+    /* border-radius: 50%; */
+  }
+  
+  h2 {
+    margin: 10px 0;
+  }
